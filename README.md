@@ -1,18 +1,18 @@
 # Career Services Commitment - Cybersecurity Weekly Job Search Activity
 
-Diana Test James Test The [Career Services Commitment](https://flatironschool.com/career-services-commitment/) outlines a set of weekly job search activity that graduates must fulfill in order to remain eligible for Flatiron’s Money-Back Guarantee (please see the [Terms of Service](https://learn.co/tos) you acknowledged upon enrollment for full eligibility requirements). What does weekly job search activity mean, and what does it consist of? We have outlined specific activities that will help you to stay on track, source opportunities, and spend your time effectively to help you move closer to your goal of getting a job.
+The [Career Services Commitment](https://flatironschool.com/career-services-commitment/) outlines a set of weekly job search activity that graduates must fulfill in order to remain eligible for Flatiron’s Money-Back Guarantee (please see the [Terms of Service](https://learn.co/tos) you acknowledged upon enrollment for full eligibility requirements). What does weekly job search activity mean, and what does it consist of? We have outlined specific activities that will help you to stay on track, source opportunities, and spend your time effectively to help you move closer to your goal of getting a job.
 
 Since we opened our doors in 2012, we have had the opportunity to guide over 1,500 graduates through job searches — and see what students did to land themselves jobs. We have thought carefully about how to guide our students to be proactive and successful in their job search, by outlining specific activities that successful students did to facilitate their job offers. This information helped us to craft the Career Services Commitment, which includes requirements for specific activities we ask students to engage in every week they are job-seeking. Those include: 
 
 - *Make contact with at least eight (8) individuals, verified by first, last name and title, at prospective employers within your field of study with respect to the Money-Back Guarantee Qualifying Program (recording evidence of such contact to be furnished upon request by Flatiron School) and update your job-search tracking tool with a written summary of all such job search activities*
 - *Post at least one (1) written or video blog post (containing your original thoughts and ideas, providing all appropriate citations and references to third-party content from other sources), focused on a topic in your field of study with respect to the Money-Back Guarantee Qualifying Program, on a public URL that can be verified by Flatiron School*
-- *For students enrolled in a course in the software engineering or data science fields of study, post at least 5 GitHub contributions per week to your public GitHub profile*
-- *For students enrolled in a course in the design field of study, you must either (i) complete one (1) extra credit assignment from your curriculum each week, (ii) complete three (3) modules in the track outside your specialization each week, or (iii) start one (1) design challenge from one of the approved web pages each week*
+- *For students enrolled in a course in the cybersecurity analytics field of study, you must complete 2 levels of the Over The Wire - Bandit challenge per week. Once complete with all levels of Bandit, you must complete 1 level per week of Over The Wire - Leviathan. At the completion of each level, provide a screen grab of the successful completion notification from the Over The Wire website to Flatiron School for review.*
+- *For students enrolled in a course in the cybersecurity engineering field of study, you must complete 1 level of the Over The Wire - Leviathan challenge per week. Once complete with all levels of Leviathan, you must complete 1 level of the following Over The Wire challenges per week in this order: Narnia, Behemoth & Utumno. At the completion of each level, provide a screen grab of the successful completion notification from the Over The Wire website to Flatiron School for review.*
 
 Let’s dive deeper into each of these activities...
 
 ## Make Contact with 8 Specific People
-**(Software Engineering, Data Science, and UX/UI Design students)**
+**(Cybersecurity Analytics and Cybersecurity Engineering students)**
 
 View our [Career Services Commitment Contact Guidelines](https://docs.google.com/document/d/1T6VCXuPuZBdB0mCnYtBc6-3YiVLIYxxtce1f2KUHZ8I/edit?usp=sharing) to understand what does and doesn't count as 'contacts'.
 
@@ -42,23 +42,11 @@ You can fulfill your goal of 8 individual contacts per week with outreach emails
 NOTE: Talking to **external** recruiters does not count towards the 8 connections per week (as they are not individuals at prospective employers within your field of study). If you want to talk to an external recruiter, that is okay! But it will need to be in addition to your 8 individual contacts. (Check out [this article](https://www.quora.com/What-do-tech-recruiters-think-about-programming-bootcamps-like-Hack-Reactor-DigitalCrafts-MakerSquare-and-Dev-Bootcamp/answer/Rebekah-Rombom-1) that explains why we encourage students to focus their efforts directly on the companies they want to work for.)
 Keep in mind that some leads that you pursue will respond quickly, while others might take a week or two to get back to you. Some you won’t ever hear from, and that’s okay. This is why we suggest the amount of activity that we do, because we know what amount of activity it takes to run a successful job search.
 
-## 5 GitHub Contributions
-**(Software Engineering and Data Science students)**
-
-As a job seeker, you need to be building and selling your personal brand all the time. Your GitHub profile link – where examples of your code/projects live – will be included in your resume, your LinkedIn, and on your personal portfolio, which means employers will have the opportunity to browse through it. Potential employers are interested in seeing if you are actively coding/practicing your craft; specifically, whether you have continued building your skills after graduation. Use this as an opportunity to showcase your passion and continued learning!
-
-Of course, there are private repos, labs, and projects that don’t live on GitHub, and a lack of activity doesn’t necessarily mean you aren’t practicing your skills – but employers can’t see that, so it’s as good as invisible when it comes to your candidacy for jobs.  It’s important to show weekly activity on your public GitHub profile. That’s why the Career Services Commitment requires that you make a minimum of 5 public GitHub [contributions](https://chris.beams.io/posts/git-commit/) weekly. Emphasis on minimum!
-
-**NOTE: Each student is responsible for ensuring that their contributions are correctly authored and are appearing on their public GitHub profile (Contributions chart) every week. [Read this](https://learn.co/tracks/career-prep/career-prep/your-online-presence/github) to ensure that you are properly authoring your contributions.**
-
-Also, [read this](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/why-are-my-contributions-not-showing-up-on-my-profile) to ensure you understand how GitHub counts contributions.
-
-A question we often get is: what does the contribution have to look like? How big does it have to be? The specifics are up to you - but make sure each contribution is meaningful. It’s pretty easy to go in and change a ReadMe or write a small piece of code to show a contribution was made. But the content of the changes can also be seen by employers. Our suggestion is to constantly be working on a side project that you are passionate about, and, ideally, daily. Make sure the contribution is adding to something larger, and to something that is visible. We want to ensure you are practicing regularly, and keeping your skills sharp.
 
 ## Technical Blog Post
-**(Software Engineering, Data Science, and UX/UI Design students)**
+**(Cybersecurity Analytics and Cybersecurity Engineering students)**
 
-This topic is covered at length [here](https://learn.co/tracks/career-prep/career-prep/your-online-presence/blogging), but we’re touching on it again because a weekly blog is a required activity within the Career Services Commitment.
+This topic is covered at length in the Career Prep Track Your Online Presence/Blogging Tips lesson, but we’re touching on it again because a weekly blog is a required activity within the Career Services Commitment.
 
 Blogs demonstrate to employers that you’re passionate about your craft and can communicate the projects you’re building and the concepts you’re learning to a general audience – an important skill for job seekers. When an employer peruses the LinkedIn profiles of 2 candidates with equal credentials – but one is an active blogger on technical topics, and the other isn’t – it’s obvious which candidate the employer is going to be more excited to speak with. You want to be that candidate!
 
@@ -66,24 +54,20 @@ You can blog about almost anything related to your learning. You will be learnin
 
 The key here is also to post your blog to a public URL: Medium, Facebook, LinkedIn, your personal website – anywhere that can generate activity and get your blog seen by others. If you have any specific questions, just connect with your Career Coach.
 
-## 1 Extra Credit Assignment/3 Track Modules/1 Design Challenge
-**(UX/UI Design students)**
+## OverTheWire War Game Challenges: Cybersecurity Analytics Students
 
-Complete *one* of the following 3 activities weekly and provide a link to evidence of completion of the activity:
-(Examples of links to verify completion include: Dropbox, Google Drive, etc.)
+- *Complete two levels of the OverTheWire - Bandit challenge weekly.*
+- *After completing all of the Bandit challenges, you must complete one level per week of OverTheWire - Leviathan.* 
+- *Provide a screen grab of the successful completion notification from the OverTheWire website to Flatiron School for review in a shared Google drive with your Career Coach.*
 
-* Complete one (1) extra credit assignment from your UX or UI curriculum each week
-* Complete three (3) modules in the track outside your specialization each week
-* Start one (1) design challenge from one of the following websites each week:
+## OverTheWire War Game Challenges: Cybersecurity Engineering Students
 
-     [productdesigninterview.com](https://productdesigninterview.com/weekly-ux-product-design-exercise)
-     
-     [designercize.com](https://designercize.com)
-     
-     [dailyui.com](https://www.dailyui.co/)
-     
-     [behance.net](https://www.behance.net/dailycreativechallenge)
-     
+- *Complete one level of the OverTheWire - Leviathan challenge per week.*
+- *Once complete with all levels of Leviathan, you must complete 1 level of the following OverTheWire challenges per week in this order:*
+>[Narnia](http://overthewire.org/wargames/narnia/)
+>[Behomoth](http://overthewire.org/wargames/behemoth/)
+>[Utumno](http://overthewire.org/wargames/utumno/)
+- *Provide a screen grab of the successful completion notification from the OverTheWire website to Flatiron School for review in a shared Google drive with your Career Coach.*
      
 These exercises will keep you sharp and your skills up as you are looking for your new job opportunity. 
 
@@ -93,7 +77,7 @@ These exercises will keep you sharp and your skills up as you are looking for yo
 
 We want to make sure you understand exactly what it takes to remain eligible for the Money-Back Guarantee – because ultimately, those are the activities and behaviors it takes to be successful as a job seeker. (The full criteria is outlined [here](http://go.flatironschool.com/career-services-commitment).) Finding a job takes a ton of work, patience, and motivation, and while we’ve got all the resources and supports you’ll need to be successful, it is your job to put in the energy and effort. 
 
-If you have questions about or want to talk through these requirements, our approach, or anything else job search related, talk to your Career Coach or feel free to reach out to us at [coaching@flatironschool.com](mailto:coaching@flatironschool.com) and a Career Coaching team member will respond.
+If you have questions about or want to talk through these requirements, our approach, or anything else job search related, talk to your Career Coach or feel free to reach out to us at [coachingsupport@flatironschool.com](mailto:coachingsupport@flatironschool.com) and a Career Coaching team member will respond.
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/csc-weekly-activity-for-cybersecurity'>CSC Weekly Activity for Cybersecurity</a> on Learn.co and start learning to code for free.</p>

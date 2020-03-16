@@ -80,4 +80,3 @@ We want to make sure you understand exactly what it takes to remain eligible for
 If you have questions about or want to talk through these requirements, our approach, or anything else job search related, talk to your Career Coach or feel free to reach out to us at [coachingsupport@flatironschool.com](mailto:coachingsupport@flatironschool.com) and a Career Coaching team member will respond.
 
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/csc-weekly-activity-for-cybersecurity'>CSC Weekly Activity for Cybersecurity</a> on Learn.co and start learning to code for free.</p>
